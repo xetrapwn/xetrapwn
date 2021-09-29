@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/xetrapwn" target="blank"><img src="https://img.shields.io/twitter/follow/xetrapwn?logo=twitter&style=for-the-badge" alt="xetrapwn" /></a> </p>
 
-- 📝 I regularly write articles on [xetrapwn.github.io](xetrapwn.github.io)
+- 📝 I regularly write articles on [xetrapwn.github.io](https://xetrapwn.github.io/)
 
 - 📫 How to reach me **huzaifakhalid0x00@gmail.com**
 
