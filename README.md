@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Khalid</h1>
 <h3 align="center">A Cyber Security enthusiast interested in all kinds of hacking from processor silicon to Infrastructures. Right now my interest domains are Binary Exploitation/ Memory Corruption, Reverse Engineering, Malware Analysis, Digital Forensics and Hardware Security.</h3>
 
-<p align="left"> <a href="https://twitter.com/xetrapwn" target="blank"><img src="https://img.shields.io/twitter/follow/xetrapwn?logo=twitter&style=for-the-badge" alt="xetrapwn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xetrasec" target="blank"><img src="https://img.shields.io/twitter/follow/xetrasec?logo=twitter&style=for-the-badge" alt="xetrasec" /></a> </p>
 
-- 📝 I regularly write articles on [xetrapwn.github.io](https://xetrapwn.github.io/)
+- 📝 I regularly write articles on [xetrasec.github.io](https://xetrasec.github.io/)
 
 - 📫 How to reach me **huzaifakhalid0x00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xetrapwn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xetrapwn" height="30" width="40" /></a>
+<a href="https://twitter.com/xetrasec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xetrasec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/huzaifa-khalid-0x00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa-khalid-0x00" height="30" width="40" /></a>
 </p>
 
